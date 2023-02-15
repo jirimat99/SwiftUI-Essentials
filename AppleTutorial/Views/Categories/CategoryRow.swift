@@ -4,6 +4,8 @@
 //
 //  Created by Jiri Matousek on 15.02.2023.
 //
+// CategoryRow
+
 import SwiftUI
 
 struct CategoryRow: View {
